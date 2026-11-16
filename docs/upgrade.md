@@ -29,4 +29,4 @@ while Audio (Lite) stays enabled. To move them to Pro, add them again from the
 Pro dock: **Play this when…** covers scene music and sounds on touch, and **Add
 Audio Zone** covers zones.
 
-Get it on itch.io. MIT-licensed; use it in commercial projects.
+Get it on itch.io. Use it in any game you make, commercial or not.
