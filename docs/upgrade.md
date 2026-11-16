@@ -24,8 +24,7 @@ of a game's soundscape.
 | Mix snapshots | — | ✅ |
 | Dialogue, UI and Ambience buses | — | ✅ |
 
-Your Lite calls carry forward: Pro's `Audio` autoload has the same deck and
-pool API, plus the new channels. Scenes built with the Lite dock keep working
+Your Lite calls carry over once `AudioLite` becomes `Audio`: the full autoload has every method the Lite one has, plus the new channels. Scenes built with the Lite dock keep working
 while Audio (Lite) stays enabled. To move them to Pro, add them again from the
 Pro dock: **Play this when…** covers scene music and sounds on touch, and **Add
 Audio Zone** covers zones.
