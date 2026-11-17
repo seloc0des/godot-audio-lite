@@ -7,7 +7,7 @@ when the player touches something, and runtime-created Music/SFX buses that the
 Settings pack's sliders find by name. The **Audio Lite** dock sets up the
 music, zones and sounds, in 2D and 3D.
 
-Free Lite tier of the SELODEV **Audio** addon. Pro adds the layered intensity
+Free Lite tier of the SELODEV **Audio** addon. The full version adds the layered intensity
 track (explore→combat, auto-driven by Combat hits), music and sounds when
 something dies, the ambience channel with ambience by time of day, 2D and 3D
 ambient emitters, sounds that muffle behind walls, mix snapshots and more buses.

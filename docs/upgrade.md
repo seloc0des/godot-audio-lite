@@ -1,11 +1,11 @@
-# Upgrading to Audio (Pro)
+# Upgrading to the full Audio
 
 Audio (Lite) is the free core: the crossfade deck, the SFX pool, music for each
 scene, music zones and sounds on touch in 2D and 3D, and buses. Its dock sets up
-the music, zones and sounds. **Audio (Pro)** adds the adaptive layer and the rest
+the music, zones and sounds. **The full Audio** adds the adaptive layer and the rest
 of a game's soundscape.
 
-| | Lite (free) | Pro |
+| | Lite (free) | Full |
 |---|---|---|
 | Crossfading music deck (same-track no-op) | ✅ | ✅ |
 | Pooled SFX + pitch jitter | ✅ | ✅ |
@@ -25,8 +25,8 @@ of a game's soundscape.
 | Dialogue, UI and Ambience buses | — | ✅ |
 
 Your Lite calls carry over once `AudioLite` becomes `Audio`: the full autoload has every method the Lite one has, plus the new channels. Scenes built with the Lite dock keep working
-while Audio (Lite) stays enabled. To move them to Pro, add them again from the
-Pro dock: **Play this when…** covers scene music and sounds on touch, and **Add
+while Audio (Lite) stays enabled. To move them to the full version, add them again from the
+The full version dock: **Play this when…** covers scene music and sounds on touch, and **Add
 Audio Zone** covers zones.
 
 Get it on itch.io. Use it in any game you make, commercial or not.

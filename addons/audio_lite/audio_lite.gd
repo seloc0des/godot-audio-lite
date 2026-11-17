@@ -1,7 +1,7 @@
 extends Node
 
 # AudioLite autoload: a crossfading music deck + pooled SFX on runtime-created
-# Music/SFX buses. The free core of Audio (Pro adds the intensity layer,
+# Music/SFX buses. The free core of Audio (the full version adds the intensity layer,
 # ambience channel, positional SFX, emitters, and pack hooks).
 
 signal music_changed(stream: AudioStream)

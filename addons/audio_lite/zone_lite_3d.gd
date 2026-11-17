@@ -3,7 +3,7 @@ extends Area3D
 
 # AudioZoneLite for 3D levels: entering swaps the music, leaving restores what
 # played before (unless another zone took over meanwhile). Player-group gated.
-# Pro zones also carry ambience.
+# The full version's zones also carry ambience.
 
 signal zone_entered(by: Node)
 signal zone_exited(by: Node)

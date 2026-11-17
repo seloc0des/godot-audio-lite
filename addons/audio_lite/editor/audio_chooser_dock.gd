@@ -3,7 +3,7 @@ extends Control
 
 # No-code chooser dock (Lite). Drag a track or a sound into its slot, select a
 # node, one click: music for the whole scene, a walk-in music zone, or a sound
-# when the player touches something. 2D or 3D is read off the selection. Pro
+# when the player touches something. 2D or 3D is read off the selection. The full version
 # adds layered intensity music, ambience, emitters, occlusion and snapshots.
 
 const ZONE: Script = preload("res://addons/audio_lite/zone_lite.gd")
@@ -81,7 +81,7 @@ func _build() -> void:
 
 	var pro := Label.new()
 	pro.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
-	pro.text = "Pro unlocks: layered intensity music (explore to combat, driven by Combat hits), sounds and music when something dies, ambience by time of day, zones with ambience, 2D and 3D ambient emitters, sounds that muffle behind walls, mix snapshots, and Dialogue, UI and Ambience buses."
+	pro.text = "The full version unlocks: layered intensity music (explore to combat, driven by Combat hits), sounds and music when something dies, ambience by time of day, zones with ambience, 2D and 3D ambient emitters, sounds that muffle behind walls, mix snapshots, and Dialogue, UI and Ambience buses."
 	pro.add_theme_color_override("font_color", Color(0.62, 0.66, 0.78))
 	v.add_child(pro)
 
